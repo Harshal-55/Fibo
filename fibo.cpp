@@ -11,7 +11,7 @@ int fib(int n)
 
 int main()
 {
-	int n=9;
+	int n=5;
    
 	cout << n << "th Fibonacci Number: " << fib(n);
 	return 0;
